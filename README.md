@@ -61,7 +61,9 @@ To ensure all the codebook vectors are uniformly used, KL loss has been implemen
 
 You can visit a simple streamlit demo of the VQGAN transformer [HERE](https://huggingface.co/spaces/Beasto/Cursed-Text-to-Image).
 
+## Screenshot
 
+![Your internet is Bad](./generation.png)
 
 ## Note 
 
